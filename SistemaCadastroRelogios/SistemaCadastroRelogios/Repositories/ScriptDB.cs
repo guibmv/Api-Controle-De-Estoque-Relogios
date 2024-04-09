@@ -35,7 +35,7 @@ namespace SistemaCadastroRelogios.Repositorios
         //(
         //    IDCLI_CLI INT PRIMARY KEY,
         //    NOMCL_CLI VARCHAR(30) NOT NULL,
-        //    TELCL_CLI INT NOT NULL
+        //    TELCL_CLI INT NULL
         //)
         //GO
 
