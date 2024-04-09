@@ -2,7 +2,7 @@
 
 namespace SistemaCadastroRelogios.Models
 {
-    public class tabelaRelogio
+    public class Relogio
     {
         public int Id { get; set; }
         public int IdMarca { get; set; }

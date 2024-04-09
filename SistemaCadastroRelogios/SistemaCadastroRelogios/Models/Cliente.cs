@@ -1,6 +1,6 @@
 ﻿namespace SistemaCadastroRelogios.Models
 {
-    public class tabelaCliente
+    public class Cliente
     {
         public int Id { get; set; }
         public string Nome { get; set; }
