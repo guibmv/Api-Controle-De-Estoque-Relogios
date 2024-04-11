@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SistemaCadastroRelogios")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9cca63a8952253eb9f58ddfc2d5bc29c093cdd40")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5cee9792c9832c65840d637b5bcdb7ea16572a7e")]
 [assembly: System.Reflection.AssemblyProductAttribute("SistemaCadastroRelogios")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SistemaCadastroRelogios")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
