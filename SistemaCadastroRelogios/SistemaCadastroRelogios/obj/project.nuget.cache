@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "jeR7Fg5cLcYfMeG+kPpTWfYEU6aClFwme6bfp/gvZOfXsscZ/gKS+RF7CrnvOEmb971DVQB1HttLvxqLjzd8eg==",
+  "dgSpecHash": "H8UNhdr9bDNvRIfD8DijL5cypxqNTX0FOa4imuT04CMQDLrI6xVDGYZFQpK3ABaozCtPss3maIrw6xgKaraakw==",
   "success": true,
   "projectFilePath": "C:\\repos\\Sistema-de-Cadastro-de-Relogios\\SistemaCadastroRelogios\\SistemaCadastroRelogios\\SistemaCadastroRelogios.csproj",
   "expectedPackageFiles": [
@@ -16,9 +16,9 @@
     "C:\\Users\\guilherme.batista\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\guilherme.batista\\.nuget\\packages\\microsoft.data.sqlclient\\5.1.5\\microsoft.data.sqlclient.5.1.5.nupkg.sha512",
     "C:\\Users\\guilherme.batista\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\5.1.1\\microsoft.data.sqlclient.sni.runtime.5.1.1.nupkg.sha512",
-    "C:\\Users\\guilherme.batista\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.3\\microsoft.entityframeworkcore.8.0.3.nupkg.sha512",
-    "C:\\Users\\guilherme.batista\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.3\\microsoft.entityframeworkcore.abstractions.8.0.3.nupkg.sha512",
-    "C:\\Users\\guilherme.batista\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.3\\microsoft.entityframeworkcore.analyzers.8.0.3.nupkg.sha512",
+    "C:\\Users\\guilherme.batista\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.4\\microsoft.entityframeworkcore.8.0.4.nupkg.sha512",
+    "C:\\Users\\guilherme.batista\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.4\\microsoft.entityframeworkcore.abstractions.8.0.4.nupkg.sha512",
+    "C:\\Users\\guilherme.batista\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.4\\microsoft.entityframeworkcore.analyzers.8.0.4.nupkg.sha512",
     "C:\\Users\\guilherme.batista\\.nuget\\packages\\microsoft.entityframeworkcore.design\\8.0.3\\microsoft.entityframeworkcore.design.8.0.3.nupkg.sha512",
     "C:\\Users\\guilherme.batista\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\8.0.3\\microsoft.entityframeworkcore.relational.8.0.3.nupkg.sha512",
     "C:\\Users\\guilherme.batista\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\8.0.3\\microsoft.entityframeworkcore.sqlserver.8.0.3.nupkg.sha512",
