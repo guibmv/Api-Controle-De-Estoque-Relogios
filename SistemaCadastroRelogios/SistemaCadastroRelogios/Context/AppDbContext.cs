@@ -9,13 +9,13 @@ namespace SistemaCadastroRelogios.Context
         {
 
         }
-        public DbSet<cliente> TB_CLIENTE { get; set; }
-        public DbSet<controleVenda> TB_CONTROLEVENDA { get; set; }
-        public DbSet<CorRelogio> TB_RELOGIOCOR { get; set; }
-        public DbSet<Estoque> TB_ESTOQUE { get; set; }
-        public DbSet<Marca> TB_MARCA { get; set; }
-        public DbSet<Relogio> TB_RELOGIO { get; set; }
-        public DbSet<Venda> TB_VENDA { get; set; }
-        public DbSet<Vendedor> TB_VENDEDOR { get; set; }
+        public DbSet<Cliente> Cliente { get; set; }
+        public DbSet<ControleVenda> ControleVenda { get; set; }
+        public DbSet<CorRelogio> CorRelogio { get; set; }
+        public DbSet<Estoque> Estoque { get; set; }
+        public DbSet<Marca> Marca { get; set; }
+        public DbSet<Relogio> Relogio { get; set; }
+        public DbSet<Venda> Venda { get; set; }
+        public DbSet<Vendedor> Vendedor { get; set; }
     }
 }
