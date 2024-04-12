@@ -4,7 +4,7 @@ using SistemaCadastroRelogios.Context;
 namespace SistemaCadastroRelogios.Controllers
 {
     [ApiController]
-    [Route("SistemaCadastroRelogios/[controller]")]
+    [Route("SistemaCadastroRelogios/Relogio")]
     public class RelogioController : ControllerBase
     {
         #region Contexto
