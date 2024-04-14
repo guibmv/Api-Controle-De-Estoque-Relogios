@@ -7,7 +7,7 @@ namespace SistemaCadastroRelogios.Controllers
     [Route("SistemaCadastroRelogios/Relogio")]
     public class RelogioController : ControllerBase
     {
-        #region Contexto
+        #region Context
         private readonly AppDbContext _context;
         #endregion
         public RelogioController(AppDbContext context)
@@ -23,7 +23,7 @@ namespace SistemaCadastroRelogios.Controllers
             return Ok(relogio);
         }
         [HttpGet("{id}")]
-        public IActionResult GetById([FromRoute] int id)
+        public IActionResult GetById(int id)
         {
             var relogio = _context.Relogio.Find(id);
 

@@ -8,9 +8,9 @@ namespace SistemaCadastroRelogios.Repositorios
         //Script de criação do Banco de Dados com as Tabelas Relacionais
 
 //        CREATE TABLE TB_MARCA
-//(
-//    IDMRC_MRC INT PRIMARY KEY IDENTITY,
-//    MARCA_MRC VARCHAR(20) NOT NULL
+//        (
+//            IDMRC_MRC INT PRIMARY KEY IDENTITY,
+//            MARCA_MRC VARCHAR(20) NOT NULL
 //        )
 //        GO
 
