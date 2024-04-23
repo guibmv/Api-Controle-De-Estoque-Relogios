@@ -34,5 +34,11 @@ namespace SistemaCadastroRelogios.Controllers
 
             return Ok(cliente);
         }
+        //Antes de criar os HttpPost criar as dtos de todos os controlodores, aprofundar no que são dtos e criar, em seguida criar os HttpPosts de todos os métodos
+        //[HttpPost]
+        //public IActionResult Create([FromBody] CreateClienteRequest clienteDto)
+        //{
+
+        //}
     }
 }
