@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Repos\\Api-Controle-De-Estoque-Relogios\\SistemaCadastroRelogios\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AC62BFEC-B96F-43F4-ABE2-68622462495E}|SistemaCadastroRelogios\\SistemaCadastroRelogios.csproj|c:\\repos\\api-controle-de-estoque-relogios\\sistemacadastrorelogios\\sistemacadastrorelogios\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AC62BFEC-B96F-43F4-ABE2-68622462495E}|SistemaCadastroRelogios\\SistemaCadastroRelogios.csproj|solutionrelative:sistemacadastrorelogios\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC62BFEC-B96F-43F4-ABE2-68622462495E}|SistemaCadastroRelogios\\SistemaCadastroRelogios.csproj|c:\\repos\\api-controle-de-estoque-relogios\\sistemacadastrorelogios\\sistemacadastrorelogios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC62BFEC-B96F-43F4-ABE2-68622462495E}|SistemaCadastroRelogios\\SistemaCadastroRelogios.csproj|solutionrelative:sistemacadastrorelogios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC62BFEC-B96F-43F4-ABE2-68622462495E}|SistemaCadastroRelogios\\SistemaCadastroRelogios.csproj|c:\\repos\\api-controle-de-estoque-relogios\\sistemacadastrorelogios\\sistemacadastrorelogios\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC62BFEC-B96F-43F4-ABE2-68622462495E}|SistemaCadastroRelogios\\SistemaCadastroRelogios.csproj|solutionrelative:sistemacadastrorelogios\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC62BFEC-B96F-43F4-ABE2-68622462495E}|SistemaCadastroRelogios\\SistemaCadastroRelogios.csproj|c:\\repos\\api-controle-de-estoque-relogios\\sistemacadastrorelogios\\sistemacadastrorelogios\\controllers\\relogiocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC62BFEC-B96F-43F4-ABE2-68622462495E}|SistemaCadastroRelogios\\SistemaCadastroRelogios.csproj|solutionrelative:sistemacadastrorelogios\\controllers\\relogiocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AC62BFEC-B96F-43F4-ABE2-68622462495E}|SistemaCadastroRelogios\\SistemaCadastroRelogios.csproj|c:\\repos\\api-controle-de-estoque-relogios\\sistemacadastrorelogios\\sistemacadastrorelogios\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC62BFEC-B96F-43F4-ABE2-68622462495E}|SistemaCadastroRelogios\\SistemaCadastroRelogios.csproj|solutionrelative:sistemacadastrorelogios\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{AC62BFEC-B96F-43F4-ABE2-68622462495E}|SistemaCadastroRelogios\\SistemaCadastroRelogios.csproj|c:\\repos\\api-controle-de-estoque-relogios\\sistemacadastrorelogios\\sistemacadastrorelogios\\controllers\\vendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC62BFEC-B96F-43F4-ABE2-68622462495E}|SistemaCadastroRelogios\\SistemaCadastroRelogios.csproj|solutionrelative:sistemacadastrorelogios\\controllers\\vendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC62BFEC-B96F-43F4-ABE2-68622462495E}|SistemaCadastroRelogios\\SistemaCadastroRelogios.csproj|c:\\repos\\api-controle-de-estoque-relogios\\sistemacadastrorelogios\\sistemacadastrorelogios\\controllers\\relogiocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC62BFEC-B96F-43F4-ABE2-68622462495E}|SistemaCadastroRelogios\\SistemaCadastroRelogios.csproj|solutionrelative:sistemacadastrorelogios\\controllers\\relogiocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AC62BFEC-B96F-43F4-ABE2-68622462495E}|SistemaCadastroRelogios\\SistemaCadastroRelogios.csproj|c:\\repos\\api-controle-de-estoque-relogios\\sistemacadastrorelogios\\sistemacadastrorelogios\\controllers\\marcacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,18 +43,6 @@
       "RelativeMoniker": "D:0:0:{AC62BFEC-B96F-43F4-ABE2-68622462495E}|SistemaCadastroRelogios\\SistemaCadastroRelogios.csproj|solutionrelative:sistemacadastrorelogios\\controllers\\correlogiocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC62BFEC-B96F-43F4-ABE2-68622462495E}|SistemaCadastroRelogios\\SistemaCadastroRelogios.csproj|c:\\repos\\api-controle-de-estoque-relogios\\sistemacadastrorelogios\\sistemacadastrorelogios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC62BFEC-B96F-43F4-ABE2-68622462495E}|SistemaCadastroRelogios\\SistemaCadastroRelogios.csproj|solutionrelative:sistemacadastrorelogios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC62BFEC-B96F-43F4-ABE2-68622462495E}|SistemaCadastroRelogios\\SistemaCadastroRelogios.csproj|c:\\repos\\api-controle-de-estoque-relogios\\sistemacadastrorelogios\\sistemacadastrorelogios\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC62BFEC-B96F-43F4-ABE2-68622462495E}|SistemaCadastroRelogios\\SistemaCadastroRelogios.csproj|solutionrelative:sistemacadastrorelogios\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC62BFEC-B96F-43F4-ABE2-68622462495E}|SistemaCadastroRelogios\\SistemaCadastroRelogios.csproj|c:\\repos\\api-controle-de-estoque-relogios\\sistemacadastrorelogios\\sistemacadastrorelogios\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{AC62BFEC-B96F-43F4-ABE2-68622462495E}|SistemaCadastroRelogios\\SistemaCadastroRelogios.csproj|solutionrelative:sistemacadastrorelogios\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AC62BFEC-B96F-43F4-ABE2-68622462495E}|SistemaCadastroRelogios\\SistemaCadastroRelogios.csproj|c:\\repos\\api-controle-de-estoque-relogios\\sistemacadastrorelogios\\sistemacadastrorelogios\\repositories\\scriptdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC62BFEC-B96F-43F4-ABE2-68622462495E}|SistemaCadastroRelogios\\SistemaCadastroRelogios.csproj|solutionrelative:sistemacadastrorelogios\\repositories\\scriptdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -54,19 +54,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 219,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
@@ -77,40 +69,51 @@
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Repos\\Api-Controle-De-Estoque-Relogios\\SistemaCadastroRelogios\\SistemaCadastroRelogios\\Program.cs",
               "RelativeDocumentMoniker": "SistemaCadastroRelogios\\Program.cs",
               "ToolTip": "C:\\Repos\\Api-Controle-De-Estoque-Relogios\\SistemaCadastroRelogios\\SistemaCadastroRelogios\\Program.cs",
               "RelativeToolTip": "SistemaCadastroRelogios\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAxAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T16:09:35.2Z"
+              "WhenOpened": "2024-04-23T16:09:35.2Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Repos\\Api-Controle-De-Estoque-Relogios\\SistemaCadastroRelogios\\SistemaCadastroRelogios\\appsettings.json",
               "RelativeDocumentMoniker": "SistemaCadastroRelogios\\appsettings.json",
               "ToolTip": "C:\\Repos\\Api-Controle-De-Estoque-Relogios\\SistemaCadastroRelogios\\SistemaCadastroRelogios\\appsettings.json",
               "RelativeToolTip": "SistemaCadastroRelogios\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABlAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-23T16:09:35.366Z"
+              "WhenOpened": "2024-04-23T16:09:35.366Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Repos\\Api-Controle-De-Estoque-Relogios\\SistemaCadastroRelogios\\SistemaCadastroRelogios\\Context\\AppDbContext.cs",
               "RelativeDocumentMoniker": "SistemaCadastroRelogios\\Context\\AppDbContext.cs",
               "ToolTip": "C:\\Repos\\Api-Controle-De-Estoque-Relogios\\SistemaCadastroRelogios\\SistemaCadastroRelogios\\Context\\AppDbContext.cs",
               "RelativeToolTip": "SistemaCadastroRelogios\\Context\\AppDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T16:09:35.369Z"
+              "WhenOpened": "2024-04-23T16:09:35.369Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -120,26 +123,27 @@
               "RelativeDocumentMoniker": "SistemaCadastroRelogios\\Controllers\\RelogioController.cs",
               "ToolTip": "C:\\Repos\\Api-Controle-De-Estoque-Relogios\\SistemaCadastroRelogios\\SistemaCadastroRelogios\\Controllers\\RelogioController.cs",
               "RelativeToolTip": "SistemaCadastroRelogios\\Controllers\\RelogioController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAlAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T16:09:35.372Z"
+              "WhenOpened": "2024-04-23T16:09:35.372Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "ClienteController.cs",
               "DocumentMoniker": "C:\\Repos\\Api-Controle-De-Estoque-Relogios\\SistemaCadastroRelogios\\SistemaCadastroRelogios\\Controllers\\ClienteController.cs",
               "RelativeDocumentMoniker": "SistemaCadastroRelogios\\Controllers\\ClienteController.cs",
               "ToolTip": "C:\\Repos\\Api-Controle-De-Estoque-Relogios\\SistemaCadastroRelogios\\SistemaCadastroRelogios\\Controllers\\ClienteController.cs",
               "RelativeToolTip": "SistemaCadastroRelogios\\Controllers\\ClienteController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-23T16:09:35.376Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "VendedorController.cs",
               "DocumentMoniker": "C:\\Repos\\Api-Controle-De-Estoque-Relogios\\SistemaCadastroRelogios\\SistemaCadastroRelogios\\Controllers\\VendedorController.cs",
               "RelativeDocumentMoniker": "SistemaCadastroRelogios\\Controllers\\VendedorController.cs",
@@ -147,12 +151,11 @@
               "RelativeToolTip": "SistemaCadastroRelogios\\Controllers\\VendedorController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T16:09:35.38Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T16:09:35.38Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "VendaController.cs",
               "DocumentMoniker": "C:\\Repos\\Api-Controle-De-Estoque-Relogios\\SistemaCadastroRelogios\\SistemaCadastroRelogios\\Controllers\\VendaController.cs",
               "RelativeDocumentMoniker": "SistemaCadastroRelogios\\Controllers\\VendaController.cs",
@@ -164,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "MarcaController.cs",
               "DocumentMoniker": "C:\\Repos\\Api-Controle-De-Estoque-Relogios\\SistemaCadastroRelogios\\SistemaCadastroRelogios\\Controllers\\MarcaController.cs",
               "RelativeDocumentMoniker": "SistemaCadastroRelogios\\Controllers\\MarcaController.cs",
@@ -176,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "EstoqueController.cs",
               "DocumentMoniker": "C:\\Repos\\Api-Controle-De-Estoque-Relogios\\SistemaCadastroRelogios\\SistemaCadastroRelogios\\Controllers\\EstoqueController.cs",
               "RelativeDocumentMoniker": "SistemaCadastroRelogios\\Controllers\\EstoqueController.cs",
@@ -188,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "CorRelogioController.cs",
               "DocumentMoniker": "C:\\Repos\\Api-Controle-De-Estoque-Relogios\\SistemaCadastroRelogios\\SistemaCadastroRelogios\\Controllers\\CorRelogioController.cs",
               "RelativeDocumentMoniker": "SistemaCadastroRelogios\\Controllers\\CorRelogioController.cs",

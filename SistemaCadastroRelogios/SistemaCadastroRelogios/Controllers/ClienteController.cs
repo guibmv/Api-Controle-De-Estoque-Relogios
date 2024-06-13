@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using SistemaCadastroRelogios.Context;
+using SistemaCadastroRelogios.Models;
 
 namespace SistemaCadastroRelogios.Controllers
 {
@@ -18,9 +19,7 @@ namespace SistemaCadastroRelogios.Controllers
         [HttpGet]
         public IActionResult GetAll()
         {
-            var cliente = _context.Cliente.ToList();
-
-            return Ok(cliente);
+            return Ok(_context.Cliente.ToList());
         }
         [HttpGet("{id}")]
         public IActionResult GetById([FromRoute] int id)
@@ -33,6 +32,14 @@ namespace SistemaCadastroRelogios.Controllers
             }
 
             return Ok(cliente);
+        }
+        [HttpPost()]
+        public Cliente Post([FromBody] Cliente cliente)
+        {
+            _context.Cliente.Add(cliente);
+            _context.SaveChanges();
+
+            return cliente;
         }
         //Antes de criar os HttpPost criar as dtos de todos os controlodores, aprofundar no que são dtos e criar, em seguida criar os HttpPosts de todos os métodos
         //[HttpPost]
