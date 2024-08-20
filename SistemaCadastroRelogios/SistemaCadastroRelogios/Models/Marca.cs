@@ -6,7 +6,7 @@ using System.Text.Json.Serialization;
 
 namespace SistemaCadastroRelogios.Models
 {
-    [Table("TB_MARCA")]
+    [Table("TB_MARCA_RELOGIO")]
     public class Marca
     {
         [Key]
